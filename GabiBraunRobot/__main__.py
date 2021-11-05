@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-[🌀](https://telegra.ph/file/9d1d0233749f315bed972.jpg) `My name is` *Maki zenin*
+[🌀](https://telegra.ph/file/9d1d0233749f315bed972.jpg) `My name is` ᴍᴇʟɪᴏᴅᴀs
 `Hey, I am Dragon sin of wrath. I can help you manage your group
 Build by The  for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *⚡ Commands*   
