@@ -70,12 +70,12 @@ buttons = [
      
     ],
     [     InlineKeyboardButton(
-            text="🈯ᴀɴɪᴍᴇ ɢʀᴏᴜᴘ", url="https://telegram.dog/Otaku_zone"),
+            text="🈯ᴀɴɪᴍᴇ ɢʀᴏᴜᴘ", url="https://telegram.dog/Otaku_zon"),
     
     ],
     [
         InlineKeyboardButton(
-            text="♦ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ", url="https://telegram.dog/Otaku_zone"),
+            text="♦ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ", url="https://telegram.dog/Otaku_zon"),
     ],
     [
         InlineKeyboardButton(
