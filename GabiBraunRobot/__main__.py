@@ -53,16 +53,16 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://telegra.ph/file/fc4148cfe17827698ea9c.jpg) `My name is` *Maki zenin*
-`I am an Anime Themed group management bot.
-Build by The @Ryu_God for Your Telegram Group , I specialize in managing anime and similar themed groups.
+             [ᴍᴇʟɪᴏᴅᴀs](https://telegra.ph/file/fc4148cfe17827698ea9c.jpg) `My name is` *Maki zenin*
+`Hey, I am Dragon sin of wrath. I can help you manage your group
+Build by The [R Y U](https://t.me/Ryu_God) for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *⚡ Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴍᴀᴋɪ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕️",url="t.me/Maki_ryu_bot?startgroup=true"),
+            text="➕️ ᴀᴅᴅ ᴍᴇʟɪᴏᴅᴀs ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕️",url="t.me/Maki_ryu_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -84,7 +84,7 @@ buttons = [
 
 
 InlineKeyboardButton(
-            text="🌀sᴜᴘᴘᴏʀᴛ", url="https://telegram.dog/Maki_zenin_support"
+            text="🌀sᴜᴘᴘᴏʀᴛ", url="https://telegram.dog/Toukakirishimasupport"
         ),
 
     ],
@@ -97,8 +97,8 @@ InlineKeyboardButton(
 
 
 HELP_STRINGS = """
-`Hey there! My name is` [Maki zenin]("https://telegra.ph/file/fc4148cfe17827698ea9c.jpg") 
-I'm a jujutsu sorcerer and help admins manage their groups with Some Powerful skills! `Have a look at the following for an idea of some of the things I can help you with.`"""
+`Hey there! My name is` [ᴍᴇʟɪᴏᴅᴀs]("https://telegra.ph/file/9d1d0233749f315bed972.jpg") 
+I'm the captain of seven deadly sins and help admins manage their groups with Some Powerful skills! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paytm](#) or by contacting @Ryu_God\
