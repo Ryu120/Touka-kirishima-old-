@@ -53,16 +53,16 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-             [ᴍᴇʟɪᴏᴅᴀs](https://telegra.ph/file/fc4148cfe17827698ea9c.jpg) `My name is` *Maki zenin*
+__________________________[ᴍᴇʟɪᴏᴅᴀs](https://telegra.ph/file/9d1d0233749f315bed972.jpg) `My name is` *Maki zenin*
 `Hey, I am Dragon sin of wrath. I can help you manage your group
-Build by The [R Y U](https://t.me/Ryu_God) for Your Telegram Group , I specialize in managing anime and similar themed groups.
+Build by The  for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *⚡ Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ᴍᴇʟɪᴏᴅᴀs ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕️",url="t.me/Maki_ryu_bot?startgroup=true"),
+            text="➕️ ᴀᴅᴅ ᴍᴇʟɪᴏᴅᴀs ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕️",url="t.me/Meliodas_sinbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
