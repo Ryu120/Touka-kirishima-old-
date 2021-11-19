@@ -53,14 +53,14 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an Anime themed group management bot, Created by 亗 ʀʏᴜ『S I L V A』.
-Build by The 亗 𝚁 𝚢 𝚞 , I specialize in managing anime and similar themed groups.
+I am an Anime themed group management bot, Created by Gaurav.
+Managed by The 亗 𝚁 𝚢 𝚞 , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Demon and help admins manage their groups with Some Powerful blood Demon arts! Have a look at the following for an idea of some of \
+I'm a cutie and help admins manage their groups with Some Powerful modules! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
@@ -77,7 +77,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-GABI_IMG = "https://telegra.ph/file/7200ef09a5599ee4b1a3b.jpg"
+GABI_IMG = "https://telegra.ph/file/103f532ea2e2dc8441d43.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Saitama is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
@@ -220,7 +220,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="My creator",
-                             url="https://t.me/Ryu_God")
+                             url="https://t.me/")
                      ]]))
     else:
         update.effective_message.reply_text(
